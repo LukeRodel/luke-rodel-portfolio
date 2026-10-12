@@ -82,3 +82,5 @@
 .capstone-art img{width:100%;height:auto;object-fit:contain}
 .capstone-project h2{margin-bottom:18px}
 @media(max-width:760px){.contribution-detail summary{min-height:0;padding-block:17px}.contribution-title{font-size:20px}.contribution-detail>p{padding-bottom:20px}.capstone-project{grid-template-columns:1fr;gap:28px}.capstone-art{max-width:240px}.capstone-project h2{font-size:33px}}
+
+.maintenance-feature{max-width:360px;margin-inline:auto}.maintenance-feature img{display:block;width:100%;height:auto}.maintenance-feature figcaption{padding-top:12px;font-size:10px;line-height:1.7;color:var(--muted)}
